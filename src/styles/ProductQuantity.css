@@ -1,0 +1,19 @@
+.increase_and_decrease_container {
+    display: flex;
+    padding: 15px;
+    width: 100%;
+}
+
+.increase_and_decrease {
+    border: 1px solid black;
+    padding: 3px;
+    background: white;
+    font-weight: bold;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+    cursor: pointer;
+}
